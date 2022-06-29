@@ -1,0 +1,52 @@
+INFO  03:05:47 Application started. Press Ctrl+C to shut down.
+INFO  03:05:47 Application started. Press Ctrl+C to shut down.
+INFO  03:05:47 Hosting environment: Development
+INFO  03:05:47 Hosting environment: Development
+INFO  03:05:47 Content root path: C:\Users\cogdotnet73\source\repos\TweetAPI\TweetAPI
+INFO  03:05:47 Content root path: C:\Users\cogdotnet73\source\repos\TweetAPI\TweetAPI
+INFO  03:06:22 Login Initiated for user TweetAPI.Models.LoginUser
+INFO  03:06:22 Token Generation Started
+INFO  03:06:22 Successfully logged In and token returned for user TweetAPI.Models.LoginUser
+INFO  05:17:44 Application started. Press Ctrl+C to shut down.
+INFO  05:17:44 Application started. Press Ctrl+C to shut down.
+INFO  05:17:44 Hosting environment: Development
+INFO  05:17:44 Hosting environment: Development
+INFO  05:17:44 Content root path: C:\Users\cogdotnet73\source\repos\TweetAPI\TweetAPI
+INFO  05:17:44 Content root path: C:\Users\cogdotnet73\source\repos\TweetAPI\TweetAPI
+INFO  06:53:58 Application started. Press Ctrl+C to shut down.
+INFO  06:53:58 Application started. Press Ctrl+C to shut down.
+INFO  06:53:58 Hosting environment: Development
+INFO  06:53:58 Hosting environment: Development
+INFO  06:53:58 Content root path: C:\Users\cogdotnet73\source\repos\TweetAPI\TweetAPI
+INFO  06:53:58 Content root path: C:\Users\cogdotnet73\source\repos\TweetAPI\TweetAPI
+INFO  07:08:59 User registered successfully
+INFO  07:08:59 User registered successfully
+INFO  07:09:22 Login Initiated for user TweetAPI.Models.LoginUser
+INFO  07:09:22 Token Generation Started
+INFO  07:09:22 Successfully logged In and token returned for user TweetAPI.Models.LoginUser
+INFO  07:09:50 Successfully retrived all Users
+INFO  07:09:50 Retriving All Users Successful
+INFO  07:10:24 User Retrieved Successful
+INFO  07:10:33 User Retrieved Successful
+INFO  07:11:07 User Details are updated successfully
+INFO  07:11:07 User successfully changed password
+INFO  07:11:22 Not a valid user
+INFO  07:11:22 Error Processing the request of ForgetPassword
+INFO  07:14:49 Retriveing all tweets Successfully
+INFO  07:14:49 Retrived all tweets
+INFO  07:15:24 Liked the tweet
+INFO  07:15:25 Liked Tweet
+INFO  07:15:54 Tweet Created Successfully
+INFO  07:15:54 Added Tweet
+INFO  07:16:04 Retriveing all tweets Successfully
+INFO  07:16:04 Retrived all tweets
+INFO  07:16:34 Updated the tweet
+INFO  07:16:34 Updated Tweet
+INFO  07:16:52 Tweet Deleted Successfully
+INFO  07:16:52 Deleted Tweet
+INFO  07:16:59 Retriveing all tweets Successfully
+INFO  07:16:59 Retrived all tweets
+INFO  07:17:44 Added Reply to the tweet
+INFO  07:17:44 Added Reply
+INFO  07:18:45 Liked the tweet
+INFO  07:18:45 Liked Tweet
